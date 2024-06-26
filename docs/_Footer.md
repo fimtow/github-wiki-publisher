@@ -1,0 +1,1 @@
+Please don't push modifications directly to the wiki from the editor or `wiki.git` repository. Push instead to the `docs` folder.
