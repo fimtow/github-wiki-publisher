@@ -1,21 +1,21 @@
 {
-  "name": "typescript-action",
-  "description": "GitHub Actions TypeScript template",
+  "name": "github-wiki-publisher",
+  "description": "Publishes documentation folder to GitHub wiki",
   "version": "0.0.0",
-  "author": "",
+  "author": "fimtow",
   "private": true,
-  "homepage": "https://github.com/actions/typescript-action",
+  "homepage": "https://github.com/fimtow/github-wiki-publisher",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/fimtow/github-wiki-publisher.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/typescript-action/issues"
+    "url": "https://github.com/fimtow/github-wiki-publisher/issues"
   },
   "keywords": [
     "actions",
-    "node",
-    "setup"
+    "wiki",
+    "github"
   ],
   "exports": {
     ".": "./dist/index.js"
